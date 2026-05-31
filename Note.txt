@@ -1,0 +1,14 @@
+Dataset: I'll upload later on Kaggle
+Tracking Benchmark: I'll upload later on Kaggle
+Validate on Benchmark code: https://colab.research.google.com/drive/11Q0Ff_4cEq929--DQDRb0HfpA7thZ4RJ?usp=sharing
+Export onxx for DeepStream Jetson Nano:
+https://colab.research.google.com/drive/1unW6yYQPiTHaKErSZsveorPM6yfJ6kH7?usp=sharing
+DeepStream Yolo: https://github.com/marcoslucianops/DeepStream-Yolo-Seg
+
+
+
+
+
+
+
+While doing this project, I lost my model results on test set while transfering data betweeen USB and my computer.
