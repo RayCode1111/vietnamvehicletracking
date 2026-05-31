@@ -5,7 +5,7 @@ Export onxx for DeepStream Jetson Nano:
 https://colab.research.google.com/drive/1unW6yYQPiTHaKErSZsveorPM6yfJ6kH7?usp=sharing
 DeepStream Yolo: https://github.com/marcoslucianops/DeepStream-Yolo-Seg
 
-
+Model saved: https://drive.google.com/drive/folders/1ZKCbJ-SXE32UqF38jo8CbjZCZX1syddL?usp=sharing 
 
 
 
